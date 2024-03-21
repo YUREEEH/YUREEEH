@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YUREEEH
 - 👀 I’m interested in learn how to code
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: Yureeeeeeh on insta
+- 📫 How to reach me: yure1921@outlook.com
 
 <!---
 YUREEEH/YUREEEH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
